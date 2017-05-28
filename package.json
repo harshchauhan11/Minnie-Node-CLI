@@ -1,0 +1,24 @@
+{
+  "name": "mincli",
+  "version": "1.0.0",
+  "description": "Minnie CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "clear": "0.0.1",
+    "clui": "^0.3.1",
+    "figlet": "^1.1.2",
+    "github": "^2.1.0",
+    "inquirer": "^1.1.0",
+    "lodash": "^4.13.1",
+    "minimist": "^1.2.0",
+    "preferences": "^0.2.1",
+    "simple-git": "^1.40.0",
+    "touch": "^1.0.0"
+  }
+}
